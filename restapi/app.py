@@ -23,3 +23,5 @@ bcrypt = Bcrypt(app)
 jwt = JWTManager(app)
 
 app.run()
+
+# test
