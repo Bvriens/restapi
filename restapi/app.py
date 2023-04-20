@@ -7,6 +7,8 @@ from database import initialize_db
 from resources import initialize_routes
 from resources import errors
 
+# dit is een test
+
 app = Flask(__name__)
 app.config['JWT_SECRET_KEY'] = 't1NP63m4wnBg6nyHYKfmc2TpCOGI4nss'
 
